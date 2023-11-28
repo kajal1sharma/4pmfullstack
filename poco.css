@@ -1,0 +1,62 @@
+body{
+    margin:0px;
+}
+.header_container{
+    height:50px;
+    background-color: green;
+}
+.ul_header{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    background-color: green;
+    padding-top: 10px;
+}
+
+li{
+    display: inline;
+    color:white;
+    font-size: 20px;
+    margin-left: 30px;
+    
+}
+.main{
+    height:1000px;
+    background-image: url("https://img.freepik.com/premium-photo/hand-is-grabbing-slice-pizza-with-pepperoni-olives_855944-173.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main_firstheading{
+    font-family: satisfy;
+    color: greenyellow;
+    text-align: center;
+    font-size: 60px;
+    margin:0px;
+    padding-top: 100px;
+
+}
+.main_secondheading{
+    text-transform: uppercase;
+    font-size: 140px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
