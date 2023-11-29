@@ -1,3 +1,7 @@
+@font-face {
+    font-family: banger;
+    src: url("./Bangers-Regular.ttf");
+  }
 body{
     margin:0px;
 }
@@ -6,6 +10,10 @@ body{
     background-color: green;
 }
 .ul_header{
+
+    font-family: "banger";
+    /* font-family: 'Satisfy', cursive,serif; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     list-style: none;
     padding: 0px;
     margin: 0px;
